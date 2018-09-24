@@ -1,0 +1,6 @@
+[package]
+name = "Mirage"
+version = "0.1.0"
+authors = ["Bryce \"BtheDestroyer\" Dixon <pokemonbrycedixon@gmail.com>"]
+
+[dependencies]
