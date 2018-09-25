@@ -8,3 +8,4 @@ repository = "https://github.com/bthedestroyer/Mirage"
 keywords = ["game", "text", "text adventure", "rpg", "networked", "online"]
 
 [dependencies]
+colored = "1.6"
