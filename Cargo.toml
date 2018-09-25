@@ -1,6 +1,10 @@
 [package]
-name = "Mirage"
+name = "mirage"
+description = "Text-based moddable online rpg"
 version = "0.1.0"
 authors = ["Bryce \"BtheDestroyer\" Dixon <pokemonbrycedixon@gmail.com>"]
+homepage = "https://github.com/bthedestroyer/Mirage"
+repository = "https://github.com/bthedestroyer/Mirage"
+keywords = ["game", "text", "text adventure", "rpg", "networked", "online"]
 
 [dependencies]
